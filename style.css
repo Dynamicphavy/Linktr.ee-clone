@@ -16,7 +16,7 @@ body {
 }
 
 h1 {
-    font-size: 30px;
+    font-size: 20px;
     margin: 0 auto 10px auto;
     color: #d8e9ef;
 }
@@ -24,6 +24,7 @@ h1 {
 h2 {
     margin: 0 auto 10px auto;
     color: #d8e9ef;
+    font-size: 15px;
 }
 
 img {
@@ -67,7 +68,7 @@ img {
     gap: 40px;
 }
 
-.links a {
+.links p {
     color: #fff;
     text-decoration: none;
 }
